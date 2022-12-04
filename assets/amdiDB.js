@@ -14,7 +14,7 @@
 * @author BlackAmda <https://github.com/BlackAmda>
 * @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
 * @link <https://github.com/BlackAmda/QueenAmdi>
-* @version 4.0.0
+* @version 4.0.1
 * @file  amdiDB.js - QueenAmdi bot database
 
 © 2022 Black Amda, ANTECH. All rights reserved.
@@ -25,14 +25,17 @@ const dotenv = require("dotenv");
 dotenv.config();
 const { Pool } = require('pg');
 
-const proConfig = {
+let pool;
+if (process.env.DATABASE_URL !== "local") {
+    const proConfig = {
     connectionString: process.env.DATABASE_URL,
     ssl: {
         rejectUnauthorized: false
     }
-}
+    }
 
-const pool = new Pool(proConfig);
+    pool = new Pool(proConfig);
+}
 
 module.exports = {
     query: (text, params) => pool.query(text, params)
