@@ -19,7 +19,7 @@
 
 ### Visit our official Queen Amdi 4.0v [Multi-Device] website for deploy instructions
 
-**[» Official Website](https://amdaniwasa.com)**
+**[» Deploy on Railway](https://railway.app/button.svg)**[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/NVjhfF?referralCode=QIuwyk)**
 
 ### You can join our Beta Testing WhatsApp Group by this invite link
 
