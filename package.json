@@ -11,13 +11,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BlackAmda/QueenAmdi.git"
+        "url": "git+https://github.com/codezone2/QueenAmdi.git"
     },
     "keywords": [
         "whatsapp"
     ],
-    "author": "Black Amda",
-    "developer": "AN Tech",
+    "author": "Malik",
+    "developer": "codelabs",
     "license": "GPL-3.0-or-later",
     "bugs": {
         "url": "https://github.com/BlackAmda/QueenAmdi/issues"
