@@ -17,13 +17,13 @@
 ![license](https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic)
 
-### Visit our official Queen Amdi 4.0v [Multi-Device] website for deploy instructions
+### Deploy Queen Amdi 4.0v [Multi-Device] on Railway Using the panel below
 
   ***[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/NVjhfF?referralCode=QIuwyk)***
 
 ### You can join our Beta Testing WhatsApp Group by this invite link
 
-**[» Join beta test group](https://chat.whatsapp.com/LhWHB9gftfwIv29C4etUHH)**
+**[» Join beta test group](https://chat.whatsapp.com/KKoqmEeMzYXDDaWDnjvBHR)**
 
 ## 🐝 Queen Amdi Team - A.N.Tech *[ Since 2016 ]*
 
